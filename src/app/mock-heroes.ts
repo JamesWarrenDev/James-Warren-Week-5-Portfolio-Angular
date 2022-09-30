@@ -7,11 +7,17 @@ export const HEROES: Hero[] = [
   { id: 315, name: 'Don Almeida' },
   { id: 109, name: 'Muhammad Baqui' },
   { id: 209, name: 'Irina Hashmi' },
+  { id: 300, name: 'Riki Morikawa' },
+  { id: 304, name: 'Sandra Sargent' },
   { id: 341, name: 'Khondkar Islam' },
   { id: 342, name: 'James Holdener' },
-  { id: 207, name: 'Erhan Uyar' }
+  { id: 343, name: 'Donna Buckner' },
+  { id: 216, name: 'Michael Kapfer' },
+  { id: 207, name: 'Bobby Varghese' },
+  { id: 213, name: 'Kanav Singla' },
+  { id: 223, name: 'Erhan Uyar' },
+  { id: 104, name: 'Sajid Mahmood' },
 ];
-
 
 /*
 Copyright Google LLC. All Rights Reserved.
